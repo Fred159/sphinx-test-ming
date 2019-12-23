@@ -26,7 +26,7 @@ contact me at `this author <http://baidu.com>`_
 Don't hesitate to ask for help on this topic in any of Godot's
  `online communities <https://godotengine.org/community>`_ and, once you become confident enough, 
 
-.. note:: 울산대학교 에코봇 저작권 보유.
+.. note:: 좋은 날
 
 .. toctree::
    :maxdepth: 1
