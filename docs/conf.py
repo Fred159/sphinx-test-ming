@@ -16,7 +16,7 @@
 
 
 # -- Project information -----------------------------------------------------
-
+master_doc = 'index'
 project = 'ming-sphinx-test'
 copyright = '2019, ming'
 author = 'ming'
