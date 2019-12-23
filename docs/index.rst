@@ -7,14 +7,14 @@ Welcome to ming-sphinx-test's documentation!
 ============================================
 
 here is some .
-print 'hello'
->>
+ print 'hello'
+ >>hello
 
 Guide
 ^^^^^^
 .. toctree::
    :maxdepth: 2
-   license
+   License
    help
    :caption: Contents:
 
