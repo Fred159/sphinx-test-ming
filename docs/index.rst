@@ -6,7 +6,7 @@
 Welcome to ming-sphinx-test's documentation!
 ============================================
 
-here is some .::
+here is some .
 print 'hello'
 >>
 
