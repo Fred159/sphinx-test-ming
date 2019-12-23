@@ -6,8 +6,16 @@
 Welcome to ming-sphinx-test's documentation!
 ============================================
 
+here is some .::
+print 'hello'
+>>
+
+Guide
+^^^^^^
 .. toctree::
    :maxdepth: 2
+   license
+   help
    :caption: Contents:
 
 
